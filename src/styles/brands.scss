@@ -1,0 +1,58 @@
+.brands {
+    padding-bottom: 77px;
+    &__card {
+        background-color: #3C4242;
+        border-radius: 12px;
+    }
+    &__title {
+        padding: 43px 0 25px;
+         color: #FFF;
+        text-align: center;
+        font-family: "montserrat", sans-serif;
+        font-size: 50px;
+        font-weight: 800;
+    }
+    &__desc {
+        color: #FFF;
+        text-align: center;
+        font-family: "Poppins", sans-serif;
+        font-size: 22px;
+        font-weight: 400;
+        &-yellow {
+            color: #FBD103;
+            font-family: "Poppins", sans-serif;
+            font-size: 22px;
+            font-weight: 700;
+        }
+    }
+    &__list {
+        padding: 67px 0 59px;
+        justify-content: space-around;
+        display: flex;
+    }
+    &__link2 {
+        border-radius: 12px;
+        background-color: white;
+        padding: 69px 14px 1px ;
+    }
+    &__link1 {
+        border-radius: 12px;
+        background-color: white;
+        padding: 55px 14px 15px ;
+    }
+    &__link3 {
+        border-radius: 12px;
+        background-color: white;
+        padding: 56px 14px 13px ;
+    }
+    &__link4 {
+        border-radius: 12px;
+        background-color: white;
+        padding: 49px 14px 19px ;
+    }
+    &__link5 {
+        border-radius: 12px;
+        background-color: white;
+        padding: 55px 14px 12px ;
+    }
+}

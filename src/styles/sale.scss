@@ -1,0 +1,64 @@
+.sale {
+    padding-bottom: 100px;
+    &__row {
+        display: flex;
+        display: flex;
+        column-gap: 30px;
+    }
+    &__card {
+        cursor: pointer;
+        width: 604.934px;
+        height: 355.844px;
+        padding:66px 0 79px 28px ;
+        border-radius: 12px;
+        transition: 0.5s ease;
+    }  
+    &__card:hover {
+        width: 590.934px;
+        height: 335.844px;
+        padding:66px 0 79px 28px ;
+        border-radius: 12px;
+    }     
+
+   
+    &__title {
+        color: #FFF;
+        font-family: "Montserrat", sans-serif;
+        font-size: 18px;
+        font-weight: 800;
+        line-height: 30.067px; /* 167.038% */
+        letter-spacing: 0.251px;
+    }
+    &__subtitle {
+        padding: 24px 0 10px;
+        color: #FFF;
+        font-family: "Montserrat", sans-serif;
+        font-size: 34px;
+        font-weight: 800;
+        line-height: 45.1px; /* 132.648% */
+        max-width: 300px;
+    }
+    &__sales {
+        color: #FFF;
+        font-family: "Montserrat", sans-serif;
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 25.056px; /* 156.598% */
+        letter-spacing: 0.251px;
+    }
+    &__btn {
+        cursor: pointer;
+        padding: 41px 0 79px;
+        border: none;
+        background: none;
+        color: #FFF;
+        font-family: "Montserrat", sans-serif;
+        font-size: 20px;
+        font-weight: 800;
+        line-height: 30.132px; /* 150.66% */
+        //
+    }
+    &__btn:hover {
+        text-decoration-line: underline;
+    }
+}

@@ -1,0 +1,96 @@
+.women {
+    .products__right-desc {
+        display: flex;
+        justify-content: space-between;
+        padding: 50px 0;
+    }
+    &__right {
+        width: 80%;
+        &-text {
+            color: #3F4646;
+            font-family: "Montserrat", sans-serif;
+            font-size: 22px;
+            font-weight: 600;
+        }
+        &-span {
+            display: flex;
+            column-gap: 25px;
+        }
+    }
+    .new-color {
+        color: #8A33FD;
+    }
+    &__right-products {    
+        display: flex;
+        flex-wrap: wrap;
+        column-gap: 36px;       
+    }
+    &__row {
+        display: flex;
+        column-gap: 50px;
+    }
+    
+    .aside {
+        width: 20%;
+        border: 1px solid #BEBCBD;
+        &-title {
+            position: relative;
+            padding: 20px 30px 60px;
+            display: flex;
+            justify-content: space-between;
+            color: #807D7E;
+            font-family: "Montserrat", sans-serif;
+            font-size: 22px;
+            font-weight: 600;
+            letter-spacing: 0.44px;
+        }
+        &-title::after {
+            position: absolute;
+            content: "";
+            width: 100%;
+            height: 1px;
+            background-color: #BEBCBD;
+            top: 70px;
+            right: 0px;
+        }
+        &-row {
+            padding: 0px 33px 18px;
+            color: #8A8989;
+            font-family: "Montserrat", sans-serif;
+            font-size: 16px;
+            font-weight: 600;
+        }
+        &__price {
+            padding: 20px;
+            &-box {
+                padding: 0 0 30px;
+            }
+            &-values {
+                padding-top: 30px;
+                display: flex;
+                justify-content: space-between;
+            }
+            &-slider {
+                width: 100%;
+                height: 2px;
+                background-color: #cdd9ed;
+                border-radius: 8px;
+            }
+            &-slider .thumb {
+                width:13px;
+                height: 13px;
+                cursor: grab;
+                background: #fff;
+                border-radius: 50%;
+                border: 2px solid blue;
+                top: -5px;
+            }
+            
+        }
+
+    }
+    
+}
+.track-1 {
+    background-color: blue;
+}

@@ -1,0 +1,45 @@
+.slider {
+    padding-bottom: 130px;
+    &__card {
+        height: 759px;
+        padding: 129px 0 321px 193px;
+        &-category {
+            color: #FFF;
+            font-family: "Montserrat", sans-serif;
+            font-size: 32px;
+            font-weight: 500;
+            line-height: 37.771px; /* 118.035% */
+            letter-spacing: 0.157px;
+            text-transform: capitalize;
+        }
+        &-title {
+            padding: 40px 0;
+            color: #FFF;
+            font-family: "Montserrat", sans-serif;
+            font-size: 78px;
+            font-style: normal;
+            font-weight: 800;
+            line-height: 93.622px; /* 120.028% */
+            letter-spacing: 0.315px;
+        }
+        &-pluses {
+            padding-bottom: 40px;
+            color: #FFF;
+            font-family: "Montserrat", sans-serif;
+            font-size: 32px;
+            font-style: normal;
+            font-weight: 500;
+            line-height: 47.214px; /* 147.544% */
+            letter-spacing: 0.315px;
+        }
+        &-btn {
+            color: #3C4242;;
+            font-family: "Notion Sans", sans-serif;
+            font-size: 24px;
+            font-weight: 700;
+            border: none;
+            padding: 16px 72px;
+            border-radius: 8px;
+        }
+    }
+}

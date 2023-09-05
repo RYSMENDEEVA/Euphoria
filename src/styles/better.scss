@@ -1,0 +1,45 @@
+.better {
+    padding-bottom: 100px;
+    &__row {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    &__left {
+        border-radius: 15px 0 0 15px;
+        padding: 183px 0 174px 74px;
+        width: 600px;
+        height: 639.723px;
+    }
+    &__title {
+        color: #FFF;
+        font-family: "Montserrat", sans-serif;
+        font-size: 30px;
+        font-weight: 800;
+        line-height: 50px; /* 147.059% */
+        letter-spacing: 0.208px;
+    }
+    &__text {
+        padding: 30px 0 50px;
+        color: #FFF;
+        font-family: "Notion Sans", sans-serif;
+        font-size: 17px;
+        font-weight: 300;
+        letter-spacing: 1px;
+    }
+    &__btn {
+        color: #3C4242;
+        font-family: "Notion Sans", sans-serif;
+        font-size: 18px;
+        font-weight: 600;
+        padding: 12px 44px;
+        border-radius: 8px;
+        border: none;
+    }
+    &__right {
+        &-img {
+            width: 600px;
+            height: 640px;
+        }  
+    }
+
+}

@@ -1,0 +1,98 @@
+.product {
+    &__row {
+        display: flex;
+        column-gap: 75px;
+    }
+    &__left-img {
+      width: 520px;
+    }
+    &__right {
+        &-sizes {
+            padding-bottom: 40px;
+        }
+        &-title {
+            padding: 87px 0 35px;
+            color: #3C4242;
+            font-family: "Montserrat", sans-serif;
+            font-size: 34px;
+            font-weight: 600;
+            line-height: 140%; /* 47.6px */
+            letter-spacing: 0.68px;
+        }
+        &-sizes-title {
+            padding: 35px 0 25px;
+            color: #3F4646;
+            font-family: "Montserrat", sans-serif;
+            font-size: 18px;
+            font-weight: 600;
+        }
+        &-sizes-size {
+            margin-right: 25px;
+            color: #3C4242;
+            text-align: center;
+            font-family: "Montserrat", sans-serif;
+            font-size: 14px;
+            font-weight: 500;
+            border: 1px solid #BEBCBD;
+            padding: 10px 13px 15px 9px;
+            border-radius: 12px;
+        }
+        &-colors {
+            &-title {
+                padding-bottom: 25px;
+                color: #3F4646;
+                font-family: "Montserrat", sans-serif;
+                font-size: 18px;
+                font-weight: 600;
+            }
+            &-color {
+                width: 30px;
+                height: 30px;
+                border-radius: 50%;
+                border: 1px solid black;
+                display: inline-block;
+                margin-right: 20px;
+            }
+        }
+        &-btns {
+            display: flex;
+            column-gap: 25px;
+            padding: 36px 0 37px;
+            &-btn { 
+                cursor: pointer;
+                display: flex;
+                column-gap: 12px;              
+                color: #FFF;
+                //text-align: center;
+                font-family: "Montserrat", sans-serif;
+                font-size: 18px;
+                font-style: normal;
+                font-weight: 600;
+                line-height: normal;
+               padding: 12px 40px;
+               border-radius: 8px;
+               background: #8A33FD;
+               border: none;
+               
+            }
+            &-price {
+                color: #3C4242;
+                text-align: center;
+                font-family: "Montserrat", sans-serif;
+                font-size: 18px;
+                font-weight: 700;
+                border: 1px solid #3C4242;
+                border-radius: 8px;
+                padding: 12px 40px;
+            }
+        }
+    }
+}
+
+.swiper-button-prev {
+   color: lightgray; /* Цвет стрелки "назад" */
+  }
+
+  .swiper-button-next {
+    color: lightgray; /* Цвет стрелки "вперед" */
+  }

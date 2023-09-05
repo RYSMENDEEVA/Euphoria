@@ -1,0 +1,1705 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "SEAMLESS STRAPPY CROP TOP",
+      "price": "120",
+      "description": "",
+      "category": {
+        "id": 1,
+        "name": "top",
+        "image": "https://static.e-stradivarius.net/5/photos3/2023/V/0/1/p/2532/688/550/2532688550_1_1_3.jpg?t=1648810098087"
+      },
+      "images": [
+        "https://static.e-stradivarius.net/5/photos3/2023/V/0/1/p/2532/688/004/2532688004_1_1_1.jpg?t=1679488114046&impolicy=stradivarius-itxmediumhigh&imwidth=390&imformat=chrome&imdensity=1.25",
+        "https://static.e-stradivarius.net/5/photos3/2023/V/0/1/p/2532/688/001/2532688001_1_1_1.jpg?t=1679488113960&impolicy=stradivarius-itxmediumhigh&imwidth=390&imformat=chrome&imdensity=1.25",
+        "https://static.e-stradivarius.net/5/photos3/2023/I/0/1/p/7000/185/001/7000185001_1_1_1.jpg?t=1692027681783&impolicy=stradivarius-itxmediumhigh&imwidth=390&imformat=chrome&imdensity=1.25"
+      ],
+      "sizes": [
+        {
+          "id": 1,
+          "size": "S"
+        },
+        {
+          "id": 2,
+          "size": "M"
+        },
+        {
+          "id": 3,
+          "size": "L"
+        },
+        {
+          "id": 4,
+          "size": "XL"
+        },
+        {
+          "id": 5,
+          "size": "XXL"
+        }
+      ],
+      "colors": [
+        {
+          "id": 1,
+          "color": "white"
+        },
+        {
+          "id": 3,
+          "color": "green"
+        },
+        {
+          "id": 4,
+          "color": "black"
+        }
+      ],
+      "gender": "woman"  
+    },
+    {
+      "id": 2,
+      "title": "SEAMLESS RACER TOP",
+      "price": "134",
+      "description": "",
+      "category": {
+        "id": 1,
+        "name": "top",
+        "image": "https://static.e-stradivarius.net/5/photos3/2023/V/0/1/p/2567/381/550/2567381550_2_1_1.jpg?t=1678806335897&impolicy=stradivarius-itxmediumhigh&imwidth=390&imformat=chrome&imdensity=1.25"
+      },
+      "images": [
+         "https://static.e-stradivarius.net/5/photos3/2023/V/0/1/p/2567/381/004/2567381004_2_1_1.jpg?t=1678806335708&impolicy=stradivarius-itxmediumhigh&imwidth=390&imformat=chrome&imdensity=1.25",
+         "https://static.e-stradivarius.net/5/photos3/2023/V/0/1/p/2567/381/001/2567381001_2_1_1.jpg?t=1678806335612&impolicy=stradivarius-itxmediumhigh&imwidth=390&imformat=chrome&imdensity=1.25",
+         "https://static.e-stradivarius.net/5/photos3/2023/V/0/1/p/2567/381/550/2567381550_2_3_1.jpg?t=1678806335897&impolicy=stradivarius-itxmediumhigh&imwidth=390&imformat=chrome&imdensity=1.25"
+      ],
+      "sizes": [
+        {
+          "id": 1,
+          "size": "S"
+        },
+        {
+          "id": 2,
+          "size": "M"
+        },
+        {
+          "id": 3,
+          "size": "L"
+        },
+        {
+          "id": 4,
+          "size": "XL"
+        },
+        {
+          "id": 5,
+          "size": "XXL"
+        }
+      ]  ,
+      "colors": [
+        {
+          "id": 1,
+          "color": "white"
+        },
+        {
+          "id": 3,
+          "color": "green"
+        },
+        {
+          "id": 4,
+          "color": "black"
+        }
+      ],
+      "gender": "woman"  
+    },
+    {
+      "id": 3,
+      "title": "SEAMLESS BRALETTE",
+      "price": 1000,
+      "description": "",
+      "category": {
+        "id": 1,
+        "name": "top",
+        "image": "https://static.e-stradivarius.net/5/photos3/2023/V/0/1/p/7011/185/551/7011185551_1_1_1.jpg?t=1675933524450&impolicy=stradivarius-itxmediumhigh&imwidth=390&imformat=chrome&imdensity=1.25"
+      },
+      "images": [
+        "https://static.e-stradivarius.net/5/photos3/2023/V/0/1/p/7011/185/400/7011185400_1_1_1.jpg?t=1679650957706&impolicy=stradivarius-itxmediumhigh&imwidth=390&imformat=chrome&imdensity=1.25",
+        "https://static.e-stradivarius.net/5/photos3/2023/V/0/1/p/7011/185/045/7011185045_1_1_1.jpg?t=1676302279491&impolicy=stradivarius-itxmediumhigh&imwidth=390&imformat=chrome&imdensity=1.25",
+        "https://static.e-stradivarius.net/5/photos3/2023/V/0/1/p/7011/185/251/7011185251_2_1_1.jpg?t=1674746480337&impolicy=stradivarius-itxmediumhigh&imwidth=390&imformat=chrome&imdensity=1.25"
+      ],
+      "sizes": [
+        {
+          "id": 1,
+          "size": "S"
+        },
+        {
+          "id": 2,
+          "size": "M"
+        },
+        {
+          "id": 3,
+          "size": "L"
+        },
+        {
+          "id": 4,
+          "size": "XL"
+        },
+        {
+          "id": 5,
+          "size": "XXL"
+        }
+      ]  ,
+      "colors": [
+        {
+          "id": 1,
+          "color": "white"
+        },
+        {
+          "id": 3,
+          "color": "green"
+        },
+        {
+          "id": 4,
+          "color": "brown"
+        }
+      ],
+      "gender": "woman"  
+    },
+    {
+      "id": 4,
+      "title": "OPEN-BACK T-SHIRT",
+      "price": 110,
+      "description": "",
+      "category": {
+        "id": 1,
+        "name": "t-shirt",
+        "image": "https://static.e-stradivarius.net/5/photos3/2023/I/0/1/p/6746/566/004/6746566004_1_1_1.jpg?t=1692027187025&impolicy=stradivarius-itxmediumhigh&imwidth=390&imformat=chrome&imdensity=1.25"
+      },
+      "images": [
+        "https://static.e-stradivarius.net/5/photos3/2023/I/0/1/p/6746/566/200/6746566200_2_1_1.jpg?t=1692713093989&impolicy=stradivarius-itxmediumhigh&imwidth=390&imformat=chrome&imdensity=1.25",
+        "https://static.e-stradivarius.net/5/photos3/2023/I/0/1/p/6746/566/400/6746566400_1_1_1.jpg?t=1692027855371&impolicy=stradivarius-itxmediumhigh&imwidth=390&imformat=chrome&imdensity=1.25",
+        "https://static.e-stradivarius.net/5/photos3/2023/I/0/1/p/6746/566/001/6746566001_2_2_1.jpg?t=1692713073852&impolicy=stradivarius-itxmediumhigh&imwidth=390&imformat=chrome&imdensity=1.25"
+      ],
+      "sizes": [
+        {
+          "id": 1,
+          "size": "S"
+        },
+        {
+          "id": 2,
+          "size": "M"
+        },
+        {
+          "id": 3,
+          "size": "L"
+        },
+        {
+          "id": 4,
+          "size": "XL"
+        },
+        {
+          "id": 5,
+          "size": "XXL"
+        }
+      ]  ,
+      "colors": [
+        {
+          "id": 1,
+          "color": "white"
+        },
+        {
+          "id": 3,
+          "color": "gray"
+        },
+        {
+          "id": 4,
+          "color": "brown"
+        },
+        {
+          "id": 4,
+          "color": "black"
+        }
+      ],
+      "gender": "woman"  
+    },
+    {
+      "id": 5,
+      "title": "CROPPED HEAVY  T-SHIRT",
+      "price": 950,
+      "description": "",
+      "category": {
+        "id": 1,
+        "name": "t-shirt",
+        "image": "https://static.e-stradivarius.net/5/photos3/2023/I/0/1/p/2520/269/001/2520269001_1_1_1.jpg?t=1692883297527&impolicy=stradivarius-itxmediumhigh&imwidth=390&imformat=chrome&imdensity=1.25"
+      },
+      "images": [
+        "https://static.e-stradivarius.net/5/photos3/2023/I/0/1/p/2520/269/433/2520269433_1_1_1.jpg?t=1692883117079&impolicy=stradivarius-itxmediumhigh&imwidth=390&imformat=chrome&imdensity=1.25",
+        "https://static.e-stradivarius.net/5/photos3/2023/I/0/1/p/2520/269/003/2520269003_2_1_1.jpg?t=1692883110517&impolicy=stradivarius-itxmediumhigh&imwidth=390&imformat=chrome&imdensity=1.25",
+        "https://static.e-stradivarius.net/5/photos3/2023/I/0/1/p/2520/269/001/2520269001_2_1_1.jpg?t=1692883166967&impolicy=stradivarius-itxmediumhigh&imwidth=390&imformat=chrome&imdensity=1.25"
+      ],
+      "sizes": [
+        {
+          "id": 1,
+          "size": "S"
+        },
+        {
+          "id": 2,
+          "size": "M"
+        },
+        {
+          "id": 3,
+          "size": "L"
+        },
+        {
+          "id": 4,
+          "size": "XL"
+        },
+        {
+          "id": 5,
+          "size": "XXL"
+        }
+      ]  ,
+      "colors": [
+        {
+          "id": 1,
+          "color": "white"
+        },
+        {
+          "id": 3,
+          "color": "beige"
+        },
+        {
+          "id": 4,
+          "color": "black"
+        }
+      ],
+      "gender": "woman"  
+    },
+    {
+      "id": 6,
+      "title": "COTTON T-SHIRT",
+      "price": 122,
+      "description": "",
+      "category": {
+        "id": 2,
+        "name": "t-shirt",
+        "image": "https://static.e-stradivarius.net/5/photos3/2023/I/0/1/p/2520/270/140/2520270140_1_1_1.jpg?t=1692883452653&impolicy=stradivarius-itxmediumhigh&imwidth=390&imformat=chrome&imdensity=1.25"
+      },
+      "images": [
+        "https://static.e-stradivarius.net/5/photos3/2023/I/0/1/p/2520/270/038/2520270038_1_1_1.jpg?t=1692005592648&impolicy=stradivarius-itxmediumhigh&imwidth=390&imformat=chrome&imdensity=1.25",
+        "https://static.e-stradivarius.net/5/photos3/2023/I/0/1/p/2520/270/038/2520270038_2_3_1.jpg?t=1692005117019&impolicy=stradivarius-itxmediumhigh&imwidth=390&imformat=chrome&imdensity=1.25",
+        "https://static.e-stradivarius.net/5/photos3/2023/I/0/1/p/2520/270/140/2520270140_2_1_1.jpg?t=1692883232372&impolicy=stradivarius-itxmediumhigh&imwidth=390&imformat=chrome&imdensity=1.25"
+      ],
+      "sizes": [
+        {
+          "id": 1,
+          "size": "S"
+        },
+        {
+          "id": 2,
+          "size": "M"
+        },
+        {
+          "id": 3,
+          "size": "L"
+        },
+        {
+          "id": 4,
+          "size": "XL"
+        },
+        {
+          "id": 5,
+          "size": "XXL"
+        }
+      ]  ,
+      "colors": [
+        {
+          "id": 1,
+          "color": "blue"
+        },
+        {
+          "id": 3,
+          "color": "pink"
+        }
+      ],
+      "gender": "woman"  
+    },
+    {
+      "id": 7,
+      "title": "GRAPHIC FOIL T-SHIRT",
+      "price": 78,
+      "description": "",
+      "category": {
+        "id": 2,
+        "name": "printed t-shirt",
+        "image": "https://static.e-stradivarius.net/5/photos3/2023/I/0/1/p/6589/499/300/6589499300_1_1_1.jpg?t=1692025610931&impolicy=stradivarius-itxmediumhigh&imwidth=390&imformat=chrome&imdensity=1.25"
+      },
+      "images": [
+        "https://static.e-stradivarius.net/5/photos3/2023/I/0/1/p/6589/499/001/6589499001_1_1_1.jpg?t=1692025575542&impolicy=stradivarius-itxmediumhigh&imwidth=390&imformat=chrome&imdensity=1.25",
+        "https://static.e-stradivarius.net/5/photos3/2023/I/0/1/p/6589/499/450/6589499450_1_1_1.jpg?t=1692025546148&impolicy=stradivarius-itxmediumhigh&imwidth=390&imformat=chrome&imdensity=1.25",
+        "https://static.e-stradivarius.net/5/photos3/2023/I/0/1/p/6589/499/140/6589499140_1_1_1.jpg?t=1692025236770&impolicy=stradivarius-itxmediumhigh&imwidth=390&imformat=chrome&imdensity=1.25"
+      ],
+      "sizes": [
+        {
+          "id": 1,
+          "size": "S"
+        },
+        {
+          "id": 2,
+          "size": "M"
+        },
+        {
+          "id": 3,
+          "size": "L"
+        },
+        {
+          "id": 4,
+          "size": "XL"
+        },
+        {
+          "id": 5,
+          "size": "XXL"
+        }
+      ]  ,
+      "colors": [
+        {
+          "id": 1,
+          "color": "white"
+        },
+        {
+          "id": 4,
+          "color": "black"
+        }
+      ],
+      "gender": "woman"  
+    },
+    {
+      "id": 8,
+      "title": "AC/DC T-SHIRT",
+      "price": "65",
+      "description": "",
+      "category": {
+        "id": 2,
+        "name": "printed t-shirt",
+        "image": "https://static.e-stradivarius.net/5/photos3/2023/I/0/1/p/6620/770/250/6620770250_1_1_1.jpg?t=1692781349244&impolicy=stradivarius-itxmediumhigh&imwidth=390&imformat=chrome&imdensity=1.25"
+      },
+      "images": [
+        "https://static.e-stradivarius.net/5/photos3/2023/I/0/1/p/6620/770/250/6620770250_2_2_1.jpg?t=1692781481410&impolicy=stradivarius-itxmediumhigh&imwidth=390&imformat=chrome&imdensity=1.25",
+        "https://static.e-stradivarius.net/5/photos3/2023/I/0/1/p/6620/993/250/6620993250_1_1_1.jpg?t=1692026577156&impolicy=stradivarius-itxmediumhigh&imwidth=390&imformat=chrome&imdensity=1.25",
+        "https://static.e-stradivarius.net/5/photos3/2023/I/0/1/p/2620/426/250/2620426250_2_1_1.jpg?t=1692883322091&impolicy=stradivarius-itxmediumhigh&imwidth=390&imformat=chrome&imdensity=1.25"
+      ],
+      "sizes": [
+        {
+          "id": 1,
+          "size": "S"
+        },
+        {
+          "id": 2,
+          "size": "M"
+        },
+        {
+          "id": 3,
+          "size": "L"
+        },
+        {
+          "id": 4,
+          "size": "XL"
+        },
+        {
+          "id": 5,
+          "size": "XXL"
+        }
+      ]  ,
+      "colors": [
+        {
+          "id": 1,
+          "color": "gray"
+        }
+      ],
+      "gender": "woman"  
+    },
+    {
+      "id": 9,
+      "title": "METALLICA T-SHIRT",
+      "price": 59,
+      "description": "",
+      "category": {
+        "id": 3,
+        "name": "printed t-shirt",
+        "image": "https://static.e-stradivarius.net/5/photos3/2023/I/0/1/p/6620/769/250/6620769250_1_1_1.jpg?t=1692883504263&impolicy=stradivarius-itxmediumhigh&imwidth=390&imformat=chrome&imdensity=1.25"
+      },
+      "images": [
+        "https://static.e-stradivarius.net/5/photos3/2023/I/0/1/p/6620/767/250/6620767250_1_1_1.jpg?t=1692026563939&impolicy=stradivarius-itxmediumhigh&imwidth=390&imformat=chrome&imdensity=1.25",
+        "https://static.e-stradivarius.net/5/photos3/2023/I/0/1/p/6620/766/250/6620766250_1_1_1.jpg?t=1692781461308&impolicy=stradivarius-itxmediumhigh&imwidth=390&imformat=chrome&imdensity=1.25",
+        "https://static.e-stradivarius.net/5/photos3/2023/I/0/1/p/2620/626/250/2620626250_2_1_1.jpg?t=1692781116115&impolicy=stradivarius-itxmediumhigh&imwidth=390&imformat=chrome&imdensity=1.25"
+      ],
+      "sizes": [
+        {
+          "id": 1,
+          "size": "S"
+        },
+        {
+          "id": 2,
+          "size": "M"
+        },
+        {
+          "id": 3,
+          "size": "L"
+        },
+        {
+          "id": 4,
+          "size": "XL"
+        },
+        {
+          "id": 5,
+          "size": "XXL"
+        }
+      ]  ,
+      "colors": [
+        {
+          "id": 3,
+          "color": "gray"
+        },
+        {
+          "id": 4,
+          "color": "black"
+        }
+      ],
+      "gender": "woman"  
+    },
+    {
+      "id": 10,
+      "title": "FLAG SWEATSHIRT",
+      "price": 69,
+      "description": "",
+      "category": {
+        "id": 3,
+        "name": "sweatshirts",
+        "image": "https://static.e-stradivarius.net/5/photos3/2023/I/0/1/p/6735/736/010/6735736010_1_1_1.jpg?t=1692026592071&impolicy=stradivarius-itxmediumhigh&imwidth=390&imformat=chrome&imdensity=1.25"
+      },
+      "images": [
+        "https://static.e-stradivarius.net/5/photos3/2023/I/0/1/p/6735/736/004/6735736004_1_1_1.jpg?t=1692287303140&impolicy=stradivarius-itxmediumhigh&imwidth=390&imformat=chrome&imdensity=1.25",
+        "https://static.e-stradivarius.net/5/photos3/2023/I/0/1/p/6735/736/010/6735736010_2_1_1.jpg?t=1692026376591&impolicy=stradivarius-itxmediumhigh&imwidth=390&imformat=chrome&imdensity=1.25",
+        "https://static.e-stradivarius.net/5/photos3/2023/I/0/1/p/6735/736/004/6735736004_2_3_1.jpg?t=1692287331907&impolicy=stradivarius-itxmediumhigh&imwidth=390&imformat=chrome&imdensity=1.25"
+      ],
+      "sizes": [
+        {
+          "id": 1,
+          "size": "S"
+        },
+        {
+          "id": 2,
+          "size": "M"
+        },
+        {
+          "id": 3,
+          "size": "L"
+        },
+        {
+          "id": 4,
+          "size": "XL"
+        },
+        {
+          "id": 5,
+          "size": "XXL"
+        }
+      ]  ,
+      "colors": [
+        {
+          "id": 1,
+          "color": "white"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        }
+      ],
+      "gender": "woman"  
+    },
+    {
+      "id": 11,
+      "title": "SEAMED SWEATSHIRT",
+      "price": 49,
+      "description": "",
+      "category": {
+        "id": 3,
+        "name": "sweatshirts",
+        "image": "https://static.e-stradivarius.net/5/photos3/2023/I/0/1/p/7667/787/456/7667787456_1_1_1.jpg?t=1692028029441&impolicy=stradivarius-itxmediumhigh&imwidth=390&imformat=chrome&imdensity=1.25"
+      },
+      "images": [
+        "https://static.e-stradivarius.net/5/photos3/2023/I/0/1/p/7667/787/250/7667787250_1_1_1.jpg?t=1692028086294&impolicy=stradivarius-itxmediumhigh&imwidth=390&imformat=chrome&imdensity=1.25",
+        "https://static.e-stradivarius.net/5/photos3/2023/I/0/1/p/7667/787/456/7667787456_2_1_1.jpg?t=1692027504798&impolicy=stradivarius-itxmediumhigh&imwidth=390&imformat=chrome&imdensity=1.25",
+        "https://static.e-stradivarius.net/5/photos3/2023/I/0/1/p/7667/787/250/7667787250_2_3_1.jpg?t=1692028156403&impolicy=stradivarius-itxmediumhigh&imwidth=390&imformat=chrome&imdensity=1.25"
+      ],
+      "sizes": [
+        {
+          "id": 1,
+          "size": "S"
+        },
+        {
+          "id": 2,
+          "size": "M"
+        },
+        {
+          "id": 3,
+          "size": "L"
+        },
+        {
+          "id": 4,
+          "size": "XL"
+        },
+        {
+          "id": 5,
+          "size": "XXL"
+        }
+      ]  ,
+      "colors": [
+        {
+          "id": 3,
+          "color": "gray"
+        },
+        {
+          "id": 4,
+          "color": "brown"
+        }
+      ],
+      "gender": "woman"  
+    },
+    {
+      "id": 12,
+      "title": "SOFT-TOUCH MODAL SWEATSHIRT",
+      "price": 109,
+      "description": "",
+      "category": {
+        "id": 3,
+        "name": "sweatshirts",
+        "image": "https://static.e-stradivarius.net/5/photos3/2023/I/0/1/p/8725/276/001/8725276001_1_1_1.jpg?t=1692017323331&impolicy=stradivarius-itxmediumhigh&imwidth=390&imformat=chrome&imdensity=1.25"
+      },
+      "images": [
+        "https://static.e-stradivarius.net/5/photos3/2023/I/0/1/p/8725/276/400/8725276400_1_1_1.jpg?t=1692017563930&impolicy=stradivarius-itxmediumhigh&imwidth=390&imformat=chrome&imdensity=1.25",
+        "https://static.e-stradivarius.net/5/photos3/2023/I/0/1/p/8725/276/250/8725276250_1_1_1.jpg?t=1692018041267&impolicy=stradivarius-itxmediumhigh&imwidth=390&imformat=chrome&imdensity=1.25",
+        "https://static.e-stradivarius.net/5/photos3/2023/I/0/1/p/8725/276/001/8725276001_2_3_1.jpg?t=1692017430478&impolicy=stradivarius-itxmediumhigh&imwidth=390&imformat=chrome&imdensity=1.25"
+      ],
+      "sizes": [
+        {
+          "id": 1,
+          "size": "S"
+        },
+        {
+          "id": 2,
+          "size": "M"
+        },
+        {
+          "id": 3,
+          "size": "L"
+        },
+        {
+          "id": 4,
+          "size": "XL"
+        },
+        {
+          "id": 5,
+          "size": "XXL"
+        }
+      ]  ,
+      "colors": [
+        {
+          "id": 1,
+          "color": "black"
+        },
+        {
+          "id": 3,
+          "color": "gray"
+        },
+        {
+          "id": 4,
+          "color": "brown"
+        }
+      ],
+      "gender": "woman"  
+    },
+    {
+      "id": 13,
+      "title": "STRAIGHT FIT CARGO JEANS",
+      "price": 98,
+      "description": "",
+      "category": {
+        "id": 3,
+        "name": "jeans",
+        "image": "https://static.e-stradivarius.net/5/photos3/2023/I/0/1/p/7340/202/711/03/7340202711_2_10_1.jpg?t=1690800240186&impolicy=stradivarius-itxmediumhigh&imwidth=390&imformat=chrome&imdensity=1.25"
+      },
+      "images": [
+        "https://static.e-stradivarius.net/5/photos3/2023/I/0/1/p/7340/202/711/03/7340202711_1_1_1.jpg?t=1690799699840&impolicy=stradivarius-itxmediumhigh&imwidth=390&imformat=chrome&imdensity=1.25",
+        "https://static.e-stradivarius.net/5/photos3/2023/I/0/1/p/7340/202/711/03/7340202711_2_1_1.jpg?t=1690799735373&impolicy=stradivarius-itxmediumhigh&imwidth=390&imformat=chrome&imdensity=1.25",
+        "https://static.e-stradivarius.net/5/photos3/2023/I/0/1/p/7340/202/711/03/7340202711_2_3_1.jpg?t=1690799697194&impolicy=stradivarius-itxmediumhigh&imwidth=390&imformat=chrome&imdensity=1.25"
+      ],
+      "sizes": [
+        {
+          "id": 1,
+          "size": "S"
+        },
+        {
+          "id": 2,
+          "size": "M"
+        },
+        {
+          "id": 3,
+          "size": "L"
+        },
+        {
+          "id": 4,
+          "size": "XL"
+        },
+        {
+          "id": 5,
+          "size": "XXL"
+        }
+      ]  ,
+      "colors": [
+        {
+          "id": 4,
+          "color": "blue"
+        }
+      ],
+      "gender": "woman"  
+    },
+    {
+      "id": 14,
+      "title": "STRAIGHT-FIT VINTAGE JEANS",
+      "price": 99,
+      "description": "",
+      "category": {
+        "id": 3,
+        "name": "jeans",
+        "image": "https://static.e-stradivarius.net/5/photos3/2023/I/0/1/p/7515/202/701/7515202701_1_1_1.jpg?t=1692027399606&impolicy=stradivarius-itxmediumhigh&imwidth=390&imformat=chrome&imdensity=1.25"
+      },
+      "images": [
+        "https://static.e-stradivarius.net/5/photos3/2023/I/0/1/p/7515/202/701/7515202701_2_1_1.jpg?t=1692027728253&impolicy=stradivarius-itxmediumhigh&imwidth=390&imformat=chrome&imdensity=1.25",
+        "https://static.e-stradivarius.net/5/photos3/2023/I/0/1/p/7515/202/701/7515202701_2_3_1.jpg?t=1692027443753&impolicy=stradivarius-itxmediumhigh&imwidth=390&imformat=chrome&imdensity=1.25",
+        "https://static.e-stradivarius.net/5/photos3/2023/I/0/1/p/7515/202/701/7515202701_2_4_1.jpg?t=1664538585015&impolicy=stradivarius-itxmediumhigh&imwidth=390&imformat=chrome&imdensity=1.25"
+      ],
+      "sizes": [
+        {
+          "id": 1,
+          "size": "S"
+        },
+        {
+          "id": 2,
+          "size": "M"
+        },
+        {
+          "id": 3,
+          "size": "L"
+        },
+        {
+          "id": 4,
+          "size": "XL"
+        },
+        {
+          "id": 5,
+          "size": "XXL"
+        }
+      ]  ,
+      "colors": [
+        {
+          "id": 4,
+          "color": "blue"
+        }
+      ],
+      "gender": "woman"  
+    },
+    {
+      "id": 15,
+      "title": "STRAIGHT FIT BLACK CARGO JEANS",
+      "price": 850,
+      "description": "",
+      "category": {
+        "id": 1,
+        "name": "jeans",
+        "image": "https://static.e-stradivarius.net/5/photos3/2023/I/0/1/p/7340/107/708/7340107708_1_1_1.jpg?t=1692190223555&impolicy=stradivarius-itxmediumhigh&imwidth=390&imformat=chrome&imdensity=1.25"
+      },
+      "images": [
+         "https://static.e-stradivarius.net/5/photos3/2023/I/0/1/p/7340/107/708/7340107708_2_1_1.jpg?t=1692029015191&impolicy=stradivarius-itxmediumhigh&imwidth=390&imformat=chrome&imdensity=1.25",
+         "https://static.e-stradivarius.net/5/photos3/2023/I/0/1/p/7340/107/708/7340107708_2_3_1.jpg?t=1692028595117&impolicy=stradivarius-itxmediumhigh&imwidth=390&imformat=chrome&imdensity=1.25",
+         "https://static.e-stradivarius.net/5/photos3/2023/I/0/1/p/7340/107/708/7340107708_2_2_1.jpg?t=1692029160210&impolicy=stradivarius-itxmediumhigh&imwidth=390&imformat=chrome&imdensity=1.25"
+      ],
+      "sizes": [
+        {
+          "id": 1,
+          "size": "S"
+        },
+        {
+          "id": 2,
+          "size": "M"
+        },
+        {
+          "id": 3,
+          "size": "L"
+        },
+        {
+          "id": 4,
+          "size": "XL"
+        },
+        {
+          "id": 5,
+          "size": "XXL"
+        }
+      ]  ,
+      "colors": [
+        {
+          "id": 4,
+          "color": "black"
+        }
+      ],
+      "gender": "woman"  
+    },
+    {
+      "id": 16,
+      "title": "SOFT-TOUCH PALAZZO TROUSERS",
+      "price": "1500",
+      "description": "",
+      "category": {
+        "id": 2,
+        "name": "joggers",
+        "image": "https://static.e-stradivarius.net/5/photos3/2023/I/0/1/p/8737/276/001/8737276001_1_1_1.jpg?t=1692016695847&impolicy=stradivarius-itxmediumhigh&imwidth=390&imformat=chrome&imdensity=1.25"
+      },
+      "images": [
+        "https://static.e-stradivarius.net/5/photos3/2023/I/0/1/p/8737/276/001/8737276001_2_1_1.jpg?t=1692016766783&impolicy=stradivarius-itxmediumhigh&imwidth=390&imformat=chrome&imdensity=1.25",
+        "https://static.e-stradivarius.net/5/photos3/2023/I/0/1/p/8737/276/250/8737276250_2_1_1.jpg?t=1692017801218&impolicy=stradivarius-itxmediumhigh&imwidth=390&imformat=chrome&imdensity=1.25",
+        "https://static.e-stradivarius.net/5/photos3/2023/I/0/1/p/8737/276/250/8737276250_2_3_1.jpg?t=1692017102037&impolicy=stradivarius-itxmediumhigh&imwidth=390&imformat=chrome&imdensity=1.25"
+      ],
+      "sizes": [
+        {
+          "id": 1,
+          "size": "S"
+        },
+        {
+          "id": 2,
+          "size": "M"
+        },
+        {
+          "id": 3,
+          "size": "L"
+        },
+        {
+          "id": 4,
+          "size": "XL"
+        },
+        {
+          "id": 5,
+          "size": "XXL"
+        }
+      ]  ,
+      "colors": [
+       
+        {
+          "id": 3,
+          "color": "gray"
+        },
+        {
+          "id": 4,
+          "color": "black"
+        }
+      ],
+      "gender": "woman"  
+    },
+    {
+      "id": 17,
+      "title": "PLUSH JOGGERS",
+      "price": 150,
+      "description": "",
+      "category": {
+        "id": 2,
+        "name": "joggers",
+        "image": "https://static.e-stradivarius.net/5/photos3/2023/I/0/1/p/7261/594/250/7261594250_2_1_1.jpg?t=1692029320445&impolicy=stradivarius-itxmediumhigh&imwidth=390&imformat=chrome&imdensity=1.25"
+      },
+      "images": [
+         "https://static.e-stradivarius.net/5/photos3/2023/I/0/1/p/7261/594/006/7261594006_1_1_1.jpg?t=1692808873193&impolicy=stradivarius-itxmediumhigh&imwidth=390&imformat=chrome&imdensity=1.25",
+         "https://static.e-stradivarius.net/5/photos3/2023/I/0/1/p/7261/594/456/7261594456_2_1_1.jpg?t=1692808041937&impolicy=stradivarius-itxmediumhigh&imwidth=390&imformat=chrome&imdensity=1.25",
+         "https://static.e-stradivarius.net/5/photos3/2023/I/0/1/p/7261/594/010/7261594010_2_1_1.jpg?t=1692029198929&impolicy=stradivarius-itxmediumhigh&imwidth=390&imformat=chrome&imdensity=1.25"
+      ],
+      "sizes": [
+        {
+          "id": 1,
+          "size": "S"
+        },
+        {
+          "id": 2,
+          "size": "M"
+        },
+        {
+          "id": 3,
+          "size": "L"
+        },
+        {
+          "id": 4,
+          "size": "XL"
+        },
+        {
+          "id": 5,
+          "size": "XXL"
+        }
+      ]  ,
+      "colors": [
+        {
+          "id": 1,
+          "color": "white"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "brown"
+        }
+      ],
+      "gender": "woman"  
+    },
+    {
+      "id": 18,
+      "title": "FLOWING TWILL TROUSERS",
+      "price": 150,
+      "description": "",
+      "category": {
+        "id": 2,
+        "name": "joggers",
+        "image": "https://static.e-stradivarius.net/5/photos3/2023/I/0/1/p/1149/941/430/1149941430_2_1_1.jpg?t=1692808300805&impolicy=stradivarius-itxmediumhigh&imwidth=390&imformat=chrome&imdensity=1.25"
+      },
+      "images": [
+        "https://static.e-stradivarius.net/5/photos3/2023/I/0/1/p/1149/941/430/1149941430_1_1_1.jpg?t=1692808327311&impolicy=stradivarius-itxmediumhigh&imwidth=390&imformat=chrome&imdensity=1.25",
+        "https://static.e-stradivarius.net/5/photos3/2023/I/0/1/p/1481/369/001/1481369001_2_2_1.jpg?t=1692190232952&impolicy=stradivarius-itxmediumhigh&imwidth=390&imformat=chrome&imdensity=1.25",
+        "https://static.e-stradivarius.net/5/photos3/2023/I/0/1/p/1481/369/045/1481369045_2_2_1.jpg?t=1681473742788&impolicy=stradivarius-itxmediumhigh&imwidth=390&imformat=chrome&imdensity=1.25"
+      ],
+      "sizes": [
+        {
+          "id": 1,
+          "size": "S"
+        },
+        {
+          "id": 2,
+          "size": "M"
+        },
+        {
+          "id": 3,
+          "size": "L"
+        },
+        {
+          "id": 4,
+          "size": "XL"
+        },
+        {
+          "id": 5,
+          "size": "XXL"
+        }
+      ]  ,
+      "colors": [
+        {
+          "id": 1,
+          "color": "white"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "black"
+        }
+      ],
+      "gender": "woman"  
+    },
+    {
+      "id": 19,
+      "title": "Relaxed Fit T-shirt",
+      "price": 78,
+      "description": "",
+      "category": {
+        "id": 4,
+        "name": "t-shirt",
+        "image": "https://static.zara.net/photos///2023/I/0/2/p/1887/310/700/2/w/750/1887310700_2_1_1.jpg?ts=1689170936426"
+      },
+      "images": [
+        "https://static.zara.net/photos///2023/V/0/2/p/0761/412/251/2/w/750/0761412251_2_1_1.jpg?ts=1674031032954",
+        "https://static.zara.net/photos///2023/I/0/2/p/0761/412/529/2/w/750/0761412529_2_1_1.jpg?ts=1686733675633",
+        "https://static.zara.net/photos///2023/I/0/2/p/0761/412/800/2/w/750/0761412800_2_1_1.jpg?ts=1691999870913"
+      ],
+      "sizes": [
+        {
+          "id": 1,
+          "size": "S"
+        },
+        {
+          "id": 2,
+          "size": "M"
+        },
+        {
+          "id": 3,
+          "size": "L"
+        },
+        {
+          "id": 4,
+          "size": "XL"
+        },
+        {
+          "id": 5,
+          "size": "XXL"
+        }
+      ]  ,
+      "colors": [
+        {
+          "id": 1,
+          "color": "white"
+        },
+        {
+          "id": 3,
+          "color": "green"
+        },
+        {
+          "id": 4,
+          "color": "black"
+        },
+        {
+          "id": 4,
+          "color": "brown"
+        }
+      ],
+      "gender": "men"  
+    },
+    {
+      "id": 20,
+      "title": "Oversized Fit Cotton T-shirt",
+      "price": 100,
+      "description": "",
+      "category": {
+        "id": 4,
+        "name": "t-shirt",
+        "image": "https://static.zara.net/photos///2023/I/0/2/p/5644/309/305/2/w/750/5644309305_2_1_1.jpg?ts=1691141198435"
+      },
+      "images": [
+        "https://static.zara.net/photos///2023/I/0/2/p/4161/300/712/2/w/750/4161300712_2_1_1.jpg?ts=1685455163563",
+        "https://static.zara.net/photos///2023/I/0/1/p/4087/322/712/2/w/750/4087322712_2_1_1.jpg?ts=1691399088476",
+        "https://static.zara.net/photos///2023/I/0/2/p/4087/322/707/2/w/750/4087322707_2_1_1.jpg?ts=1690970056644"
+      ],
+      "sizes": [
+        {
+          "id": 1,
+          "size": "S"
+        },
+        {
+          "id": 2,
+          "size": "M"
+        },
+        {
+          "id": 3,
+          "size": "L"
+        },
+        {
+          "id": 4,
+          "size": "XL"
+        },
+        {
+          "id": 5,
+          "size": "XXL"
+        }
+      ]  ,
+      "colors": [
+        {
+          "id": 1,
+          "color": "white"
+        },
+        {
+          "id": 3,
+          "color": "yellow"
+        },
+        {
+          "id": 4,
+          "color": "beige"
+        },
+        {
+          "id": 4,
+          "color": "brown"
+        }
+      ],
+      "gender": "men"  
+    },
+    {
+      "id": 21,
+      "title": "BASIC LIGHTWEIGHT T-SHIRT",
+      "price": 100,
+      "description": "",
+      "category": {
+        "id": 4,
+        "name": "t-shirt",
+        "image": "https://static.zara.net/photos///2023/V/0/2/p/1887/440/800/2/w/750/1887440800_2_1_1.jpg?ts=1677845341908"
+      },
+      "images": [
+        "https://static.zara.net/photos///2023/V/0/2/p/1887/440/250/2/w/563/1887440250_2_1_1.jpg?ts=1677845341095",
+        "https://static.zara.net/photos///2023/I/0/1/p/1887/440/811/2/w/563/1887440811_2_1_1.jpg?ts=1688984739368",
+        "https://static.zara.net/photos///2023/I/0/2/p/1887/340/428/2/w/563/1887340428_2_1_1.jpg?ts=1688730800616"
+      ],
+      "sizes": [
+        {
+          "id": 1,
+          "size": "S"
+        },
+        {
+          "id": 2,
+          "size": "M"
+        },
+        {
+          "id": 3,
+          "size": "L"
+        },
+        {
+          "id": 4,
+          "size": "XL"
+        },
+        {
+          "id": 5,
+          "size": "XXL"
+        }
+      ]  ,
+      "colors": [
+        {
+          "id": 1,
+          "color": "white"
+        },
+        {
+          "id": 3,
+          "color": "green"
+        },
+        {
+          "id": 4,
+          "color": "black"
+        },
+        {
+          "id": 4,
+          "color": "blue"
+        }
+      ],
+      "gender": "men"  
+    },
+    {
+      "id": 22,
+      "title": "PRINTED  T-SHIRT",
+      "price": 123,
+      "description": "",
+      "category": {
+        "id": 4,
+        "name": "printed t-shirt",
+        "image": "https://static.zara.net/photos///2023/I/0/2/p/0962/322/615/2/w/1920/0962322615_2_1_1.jpg?ts=1688718276217"
+      },
+      "images": [
+        "https://static.zara.net/photos///2023/I/0/2/p/0962/322/615/2/w/750/0962322615_2_4_1.jpg?ts=1688718277246",
+        "https://static.zara.net/photos///2023/I/0/2/p/0962/322/615/2/w/750/0962322615_1_1_1.jpg?ts=1688718275344",
+        "https://static.zara.net/photos///2023/I/0/2/p/0962/322/615/2/w/750/0962322615_2_2_1.jpg?ts=1688718276457"
+      ],
+      "sizes": [
+        {
+          "id": 1,
+          "size": "S"
+        },
+        {
+          "id": 2,
+          "size": "M"
+        },
+        {
+          "id": 3,
+          "size": "L"
+        },
+        {
+          "id": 4,
+          "size": "XL"
+        },
+        {
+          "id": 5,
+          "size": "XXL"
+        }
+      ]  ,
+      "colors": [
+        {
+          "id": 1,
+          "color": "yellow"
+        }
+      ],
+      "gender": "men"  
+    },
+    {
+      "id": 23,
+      "title": "PRINTED KNIT T-SHIRT",
+      "price": 56,
+      "description": "",
+      "category": {
+        "id": 4,
+        "name": "printed t-shirt",
+        "image": "https://static.zara.net/photos///2023/I/0/2/p/4805/307/800/2/w/750/4805307800_2_1_1.jpg?ts=1689756840879"
+      },
+      "images": [
+         "https://static.zara.net/photos///2023/I/0/2/p/4805/307/800/2/w/750/4805307800_1_1_1.jpg?ts=1689756840518",
+         "https://static.zara.net/photos///2023/I/0/2/p/4805/307/800/2/w/750/4805307800_2_2_1.jpg?ts=1689756840229",
+         "https://static.zara.net/photos///2023/I/0/2/p/4805/307/800/2/w/750/4805307800_2_4_1.jpg?ts=1689756838536"
+      ],
+      "sizes": [
+        {
+          "id": 1,
+          "size": "S"
+        },
+        {
+          "id": 2,
+          "size": "M"
+        },
+        {
+          "id": 3,
+          "size": "L"
+        },
+        {
+          "id": 4,
+          "size": "XL"
+        },
+        {
+          "id": 5,
+          "size": "XXL"
+        }
+      ]  ,
+      "colors": [
+        {
+          "id": 4,
+          "color": "black"
+        }
+      ],
+      "gender": "men"  
+    },
+    {
+      "id": 24,
+      "title": "SLOGAN PRINT T-SHIRT",
+      "price": 100,
+      "description": "",
+      "category": {
+        "id": 4,
+        "name": "printed t-shirt",
+        "image": "https://static.zara.net/photos///2023/I/0/2/p/6224/376/710/2/w/563/6224376710_2_1_1.jpg?ts=1690442672973"
+      },
+      "images": [
+         "https://static.zara.net/photos///2023/I/0/2/p/6224/376/710/2/w/563/6224376710_1_1_1.jpg?ts=1690442673351",
+         "https://static.zara.net/photos///2023/I/0/2/p/6224/376/710/2/w/563/6224376710_2_2_1.jpg?ts=1690442672787",
+         "https://static.zara.net/photos///2023/I/0/2/p/6224/376/710/2/w/563/6224376710_2_4_1.jpg?ts=1690442673016"
+      ],
+      "sizes": [
+        {
+          "id": 1,
+          "size": "S"
+        },
+        {
+          "id": 2,
+          "size": "M"
+        },
+        {
+          "id": 3,
+          "size": "L"
+        },
+        {
+          "id": 4,
+          "size": "XL"
+        },
+        {
+          "id": 5,
+          "size": "XXL"
+        }
+      ]  ,
+      "colors": [
+        {
+          "id": 1,
+          "color": "white"
+        }
+      ],
+      "gender": "men"  
+    },
+    {
+      "id": 25,
+      "title": "SWEATSHIRT WITH ZIP COLLAR",
+      "price": 100,
+      "description": "",
+      "category": {
+        "id": 4,
+        "name": "sweatshirts",
+        "image": "https://static.zara.net/photos///2023/I/0/2/p/6462/330/251/2/w/563/6462330251_2_1_1.jpg?ts=1689932178782"
+      },
+      "images": [
+         "https://static.zara.net/photos///2023/I/0/2/p/6462/330/401/2/w/563/6462330401_2_1_1.jpg?ts=1689923264058",
+         "https://static.zara.net/photos///2023/I/0/2/p/6462/330/707/2/w/563/6462330707_2_1_1.jpg?ts=1689938393422",
+         "https://static.zara.net/photos///2023/I/0/2/p/6462/330/658/2/w/563/6462330658_2_1_1.jpg?ts=1689932179335"
+      ],
+      "sizes": [
+        {
+          "id": 1,
+          "size": "S"
+        },
+        {
+          "id": 2,
+          "size": "M"
+        },
+        {
+          "id": 3,
+          "size": "L"
+        },
+        {
+          "id": 4,
+          "size": "XL"
+        },
+        {
+          "id": 5,
+          "size": "XXL"
+        }
+      ]  ,
+      "colors": [
+        {
+          "id": 1,
+          "color": "white"
+        },
+        {
+          "id": 3,
+          "color": "beige"
+        },
+        {
+          "id": 4,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "brown"
+        }
+      ],
+      "gender": "men"  
+    },
+    {
+      "id": 26,
+      "title": "POLO SWEATSHIRT",
+      "price": 100,
+      "description": "",
+      "category": {
+        "id": 4,
+        "name": "sweatshirts",
+        "image": "https://static.zara.net/photos///2023/I/0/2/p/0526/330/401/2/w/563/0526330401_2_1_1.jpg?ts=1692022320181"
+      },
+      "images": [
+         "https://static.zara.net/photos///2023/I/0/2/p/0526/330/066/2/w/563/0526330066_2_1_1.jpg?ts=1692022319806",
+         "https://static.zara.net/photos///2023/I/0/2/p/0526/330/069/2/w/563/0526330069_2_1_1.jpg?ts=1692022319543",
+         "https://static.zara.net/photos///2023/I/0/2/p/0526/330/529/2/w/563/0526330529_2_1_1.jpg?ts=1692022320422"
+      ],
+      "sizes": [
+        {
+          "id": 1,
+          "size": "S"
+        },
+        {
+          "id": 2,
+          "size": "M"
+        },
+        {
+          "id": 3,
+          "size": "L"
+        },
+        {
+          "id": 4,
+          "size": "XL"
+        },
+        {
+          "id": 5,
+          "size": "XXL"
+        }
+      ]  ,
+      "colors": [
+        {
+          "id": 1,
+          "color": "white"
+        },
+        {
+          "id": 3,
+          "color": "beige"
+        },
+        {
+          "id": 4,
+          "color": "black"
+        },
+        {
+          "id": 4,
+          "color": "brown"
+        }
+      ],
+      "gender": "men"  
+    },
+    {
+      "id": 27,
+      "title": "PURL KNIT SWEATER",
+      "price": 100,
+      "description": "",
+      "category": {
+        "id": 4,
+        "name": "sweatshirts",
+        "image": "https://static.zara.net/photos///2023/I/0/2/p/3284/320/803/2/w/563/3284320803_2_1_1.jpg?ts=1690532394338"
+      },
+      "images": [
+         "https://static.zara.net/photos///2023/I/0/2/p/3284/320/800/2/w/563/3284320800_2_1_1.jpg?ts=1690532395066",
+         "https://static.zara.net/photos///2023/I/0/2/p/3284/320/524/2/w/563/3284320524_2_1_1.jpg?ts=1690532394844",
+         "https://static.zara.net/photos///2023/I/0/2/p/3284/320/082/2/w/563/3284320082_2_1_1.jpg?ts=1690532392915"
+      ],
+      "sizes": [
+        {
+          "id": 1,
+          "size": "S"
+        },
+        {
+          "id": 2,
+          "size": "M"
+        },
+        {
+          "id": 3,
+          "size": "L"
+        },
+        {
+          "id": 4,
+          "size": "XL"
+        },
+        {
+          "id": 5,
+          "size": "XXL"
+        }
+      ]  ,
+      "colors": [
+        {
+          "id": 1,
+          "color": "white"
+        },
+        {
+          "id": 3,
+          "color": "green"
+        },
+        {
+          "id": 4,
+          "color": "black"
+        },
+        {
+          "id": 4,
+          "color": "gray"
+        }
+      ],
+      "gender": "men"  
+    },
+    {
+      "id": 28,
+      "title": "STRAIGHT FIT RIPPED JEANS",
+      "price": 100,
+      "description": "",
+      "category": {
+        "id": 4,
+        "name": "jeans",
+        "image": "https://static.zara.net/photos///2023/I/0/2/p/8062/306/427/2/w/563/8062306427_2_1_1.jpg?ts=1692780184103"
+      },
+      "images": [
+         "https://static.zara.net/photos///2023/I/0/2/p/8062/306/427/2/w/563/8062306427_1_1_1.jpg?ts=1692780182445",
+         "https://static.zara.net/photos///2023/I/0/2/p/8062/306/427/2/w/563/8062306427_2_2_1.jpg?ts=1692780183950",
+         "https://static.zara.net/photos///2023/I/0/2/p/8062/306/427/2/w/563/8062306427_2_3_1.jpg?ts=1692780182441"
+      ],
+      "sizes": [
+        {
+          "id": 1,
+          "size": "S"
+        },
+        {
+          "id": 2,
+          "size": "M"
+        },
+        {
+          "id": 3,
+          "size": "L"
+        },
+        {
+          "id": 4,
+          "size": "XL"
+        },
+        {
+          "id": 5,
+          "size": "XXL"
+        }
+      ]  ,
+      "colors": [
+        {
+          "id": 1,
+          "color": "blue"
+        }
+      ],
+      "gender": "men"  
+    },
+    {
+      "id": 29,
+      "title": "STRAIGHT FIT JEANS",
+      "price": 100,
+      "description": "",
+      "category": {
+        "id": 4,
+        "name": "jeans",
+        "image": "https://static.zara.net/photos///2023/I/0/2/p/8062/303/800/2/w/563/8062303800_2_1_1.jpg?ts=1689608344854"
+      },
+      "images": [
+         "https://static.zara.net/photos///2023/I/0/2/p/8062/303/251/2/w/563/8062303251_2_1_1.jpg?ts=1689608170480",
+         "https://static.zara.net/photos///2023/I/0/1/p/8062/303/711/2/w/563/8062303711_2_1_1.jpg?ts=1690387565275",
+         "https://static.zara.net/photos///2023/I/0/1/p/8062/303/436/2/w/563/8062303436_2_1_1.jpg?ts=1689609451237"
+      ],
+      "sizes": [
+        {
+          "id": 1,
+          "size": "S"
+        },
+        {
+          "id": 2,
+          "size": "M"
+        },
+        {
+          "id": 3,
+          "size": "L"
+        },
+        {
+          "id": 4,
+          "size": "XL"
+        },
+        {
+          "id": 5,
+          "size": "XXL"
+        }
+      ]  ,
+      "colors": [
+        {
+          "id": 1,
+          "color": "white"
+        },
+        {
+          "id": 3,
+          "color": "blue"
+        },
+        {
+          "id": 4,
+          "color": "black"
+        },
+        {
+          "id": 4,
+          "color": "beige"
+        }
+      ],
+      "gender": "men"  
+    },
+    {
+      "id": 30,
+      "title": "SLOUCHY FIT JEANS",
+      "price": 100,
+      "description": "",
+      "category": {
+        "id": 4,
+        "name": "jeans",
+        "image": "https://static.zara.net/photos///2023/I/0/2/p/5862/306/506/2/w/563/5862306506_2_1_1.jpg?ts=1690963410387"
+      },
+      "images": [
+         "https://static.zara.net/photos///2023/I/0/2/p/5862/306/436/2/w/563/5862306436_2_1_1.jpg?ts=1690383999352",
+         "https://static.zara.net/photos///2023/I/0/2/p/5862/306/407/2/w/563/5862306407_2_1_1.jpg?ts=1690383999011",
+         "https://static.zara.net/photos///2023/I/0/2/p/5862/306/800/2/w/563/5862306800_2_1_1.jpg?ts=1690383999960"
+      ],
+      "sizes": [
+        {
+          "id": 1,
+          "size": "S"
+        },
+        {
+          "id": 2,
+          "size": "M"
+        },
+        {
+          "id": 3,
+          "size": "L"
+        },
+        {
+          "id": 4,
+          "size": "XL"
+        },
+        {
+          "id": 5,
+          "size": "XXL"
+        }
+      ]  ,
+      "colors": [
+        {
+          "id": 3,
+          "color": "green"
+        },
+        {
+          "id": 4,
+          "color": "black"
+        },
+        {
+          "id": 4,
+          "color": "blue"
+        }
+      ],
+      "gender": "men"  
+    },
+    {
+      "id": 31,
+      "title": "EASY CARE JOGGER WAIST PANTS",
+      "price": 49,
+      "description": "",
+      "category": {
+        "id": 4,
+        "name": "joggers",
+        "image": "https://static.zara.net/photos///2023/I/0/2/p/0706/540/800/2/w/563/0706540800_2_1_1.jpg?ts=1688053935141"
+      },
+      "images": [
+         "https://static.zara.net/photos///2023/I/0/2/p/0347/440/722/2/w/563/0347440722_2_1_1.jpg?ts=1692354454988",
+         "https://static.zara.net/photos///2023/I/0/1/p/0706/540/251/2/w/563/0706540251_2_1_1.jpg?ts=1688053855324",
+         "https://static.zara.net/photos///2023/I/0/2/p/0706/540/401/2/w/563/0706540401_2_1_1.jpg?ts=1688053933173"
+      ],
+      "sizes": [
+        {
+          "id": 1,
+          "size": "S"
+        },
+        {
+          "id": 2,
+          "size": "M"
+        },
+        {
+          "id": 3,
+          "size": "L"
+        },
+        {
+          "id": 4,
+          "size": "XL"
+        },
+        {
+          "id": 5,
+          "size": "XXL"
+        }
+      ]  ,
+      "colors": [
+        {
+          "id": 1,
+          "color": "white"
+        },
+        {
+          "id": 3,
+          "color": "green"
+        },
+        {
+          "id": 4,
+          "color": "black"
+        }
+      ],
+      "gender": "men"  
+    },
+    {
+      "id": 32,
+      "title": "RELAXED FIT CARGO PANTS",
+      "price": 80,
+      "description": "",
+      "category": {
+        "id": 4,
+        "name": "joggers",
+        "image": "https://static.zara.net/photos///2023/I/0/2/p/0108/310/806/2/w/563/0108310806_2_1_1.jpg?ts=1692355484811"
+      },
+      "images": [
+         "https://static.zara.net/photos///2023/I/0/2/p/0108/310/800/2/w/563/0108310800_2_1_1.jpg?ts=1692351040808",
+         "https://static.zara.net/photos///2023/I/0/2/p/0108/310/500/2/w/563/0108310500_2_1_1.jpg?ts=1692351040745",
+         "https://static.zara.net/photos///2023/I/0/2/p/0108/310/806/2/w/563/0108310806_2_2_1.jpg?ts=1692355484867"
+      ],
+      "sizes": [
+        {
+          "id": 1,
+          "size": "S"
+        },
+        {
+          "id": 2,
+          "size": "M"
+        },
+        {
+          "id": 3,
+          "size": "L"
+        },
+        {
+          "id": 4,
+          "size": "XL"
+        },
+        {
+          "id": 5,
+          "size": "XXL"
+        }
+      ]  ,
+      "colors": [
+        {
+          "id": 1,
+          "color": "white"
+        },
+        {
+          "id": 3,
+          "color": "green"
+        },
+        {
+          "id": 4,
+          "color": "black"
+        }
+      ],
+      "gender": "men"  
+    },
+    {
+      "id": 33,
+      "title": "BASIC JOGGING PANTS",
+      "price": 100,
+      "description": "",
+      "category": {
+        "id": 4,
+        "name": "joggers",
+        "image": "https://static.zara.net/photos///2023/I/0/2/p/0761/352/807/2/w/563/0761352807_2_1_1.jpg?ts=1692348974952"
+      },
+      "images": [
+         "https://static.zara.net/photos///2023/I/0/2/p/0761/352/251/2/w/563/0761352251_2_1_1.jpg?ts=1692348975895",
+         "https://static.zara.net/photos///2023/I/0/2/p/0761/352/800/2/w/563/0761352800_2_1_1.jpg?ts=1692348975398",
+         "https://static.zara.net/photos///2023/I/0/2/p/0761/352/527/2/w/563/0761352527_2_1_1.jpg?ts=1691137759566"
+      ],
+      "sizes": [
+        {
+          "id": 1,
+          "size": "S"
+        },
+        {
+          "id": 2,
+          "size": "M"
+        },
+        {
+          "id": 3,
+          "size": "L"
+        },
+        {
+          "id": 4,
+          "size": "XL"
+        },
+        {
+          "id": 5,
+          "size": "XXL"
+        }
+      ]  ,
+      "colors": [
+        {
+          "id": 1,
+          "color": "white"
+        },
+        {
+          "id": 3,
+          "color": "green"
+        },
+        {
+          "id": 4,
+          "color": "black"
+        },
+        {
+          "id": 4,
+          "color": "gray"
+        }
+      ],
+      "gender": "men"  
+    }
+   
+
+  ]
+  
+}
