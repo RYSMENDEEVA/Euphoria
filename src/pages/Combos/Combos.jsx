@@ -1,19 +1,23 @@
-import React, { useContext, useEffect, useState } from "react";
-import Collection from "../../components/Collection/Collection";
-import { CustomContext } from "../../utils/Context";
+import React, { useContext, useEffect } from 'react';
+import Collection from '../../components/Collection/Collection';
+import { CustomContext } from '../../utils/Context';
 
 const Combos = () => {
-  const {products, isLoading,setGender,setCategory} = useContext(CustomContext);
+  const { products, isLoading, setGender, setCategory } =
+    useContext(CustomContext);
 
   useEffect(() => {
     setGender();
-    setCategory ();
-  },[])
+    setCategory();
+  }, []);
 
+  return (
+    <Collection
+      products={products}
+      title="All Products"
+      isLoading={isLoading}
+    />
+  );
+};
 
-    return ( 
-      <Collection products={products} title="All Products" isLoading={isLoading}/>
-     );
-}
- 
 export default Combos;

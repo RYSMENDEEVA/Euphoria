@@ -1,47 +1,48 @@
 .arrivals {
-    padding-bottom: 100px;
-    &__img {
-        width: 262.815px;
-        height: 262.815px;
-        object-fit: cover;
-        border-radius: 12px;
-        display: flex;
-        justify-content: space-around;
+  padding-bottom: 100px;
+  &__img {
+    width: 262.815px;
+    height: 262.815px;
+    object-fit: cover;
+    border-radius: 12px;
+    display: flex;
+    justify-content: space-between;
+  }
+  &__title {
+    position: relative;
+    padding-bottom: 69px;
+    color: #3c4242;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 34px;
+    font-weight: 600;
+    line-height: 33.5px; /* 98.529% */
+    letter-spacing: 0.68px;
+  }
+  &__title::before {
+    position: absolute;
+    content: '';
+    width: 6px;
+    height: 30px;
+    border-radius: 10px;
+    background-color: #8a33fd;
+    left: -20px;
+  }
+  &__row {
+    display: flex;
+    cursor: pointer;
+    //justify-content: space-between;
+    //column-gap: 38px;
+    //padding: 0 30px;
+  }
+  &__card {
+    margin-left: 21px;
+    &-title {
+      color: #3c4242;
+      font-family: 'Notion Sans', sans-serif;
+      font-size: 20px;
+      font-weight: 700;
+      letter-spacing: 0.2px;
+      padding-top: 32px;
     }
-    &__title {
-        position: relative;
-        padding-bottom:  69px;
-        color: #3C4242;
-        font-family: "Montserrat", sans-serif ;
-        font-size: 34px;
-        font-weight: 600;
-        line-height: 33.5px; /* 98.529% */
-        letter-spacing: 0.68px;
-    }
-    &__title::before {
-        position: absolute;
-        content: "";
-        width: 6px;
-        height: 30px;
-        border-radius: 10px;
-        background-color: #8A33FD;
-        left: -20px;
-    }
-    &__row {
-        display: flex;
-        justify-content: space-between;
-       // column-gap: 38px;
-        //padding: 0 30px;
-    }
-    &__card {
-        
-        &-title {
-            color: #3C4242;
-            font-family: "Notion Sans", sans-serif;
-            font-size: 20px;
-            font-weight: 700;
-            letter-spacing: 0.2px;
-            padding-top: 32px;
-        }
-    }
+  }
 }
